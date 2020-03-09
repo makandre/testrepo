@@ -1,0 +1,13 @@
+[
+    {
+        "displayName": "Appsody Node.js Express simple template",
+        "description": "Express web framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.4/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-express/devfile.yaml"
+        }
+    }
+]
