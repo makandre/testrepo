@@ -5,7 +5,7 @@
         "language": "nodejs",
         "projectType": "appsodyExtension",
         "projectStyle": "Appsody",
-        "location": "https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.4/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz",
+        "location": "https://github.com/makandre/testrepo/releases/download/0.1/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz",
         "links": {
             "self": "/devfiles/nodejs-express/devfile.yaml"
         }

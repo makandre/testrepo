@@ -11,10 +11,10 @@ stacks:
     email: vieuxtech@gmail.com
     github-id: sam-github
   default-template: simple
-  src: https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.4/incubator.nodejs-express.v0.4.4.source.tar.gz
+  src: https://github.com/makandre/testrepo/releases/download/0.1/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz
   templates:
   - id: simple
-    url: https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.4/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz
+    url: https://github.com/makandre/testrepo/releases/download/0.1/incubator.nodejs-express.v0.4.4.templates.simple.tar.gz
   requirements:
     docker-version: '>= 17.09.0'
     appsody-version: '>= 0.2.7'
